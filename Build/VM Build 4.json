@@ -1,0 +1,16 @@
+{
+"companyName": "Code Ninjas",
+"productName": "VM - FTF 2D",
+"productVersion": "0.1",
+"dataUrl": "VM Build 4.data.unityweb",
+"wasmCodeUrl": "VM Build 4.wasm.code.unityweb",
+"wasmFrameworkUrl": "VM Build 4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#191919",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
